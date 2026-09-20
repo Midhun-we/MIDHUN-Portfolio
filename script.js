@@ -13,7 +13,7 @@ window.addEventListener("load", () => {
 
   setTimeout(() => {
     preloader.style.display = "none";
-  }, 200);
+  }, 400);
 });
 
 
